@@ -3,3 +3,4 @@ tensorflow
 pandas
 pytest
 pytest-cov
+pylint
