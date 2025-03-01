@@ -1,0 +1,5 @@
+numpy
+tensorflow
+pandas
+pytest
+pytest-cov
